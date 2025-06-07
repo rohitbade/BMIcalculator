@@ -17,5 +17,5 @@ This is a simple **BMI (Body Mass Index) calculator** built using **Python** and
 pip install streamlit
 
 # How to run
-streamlit run bmi_app.py ( use your file name instead  bmi_app.py )
+streamlit run bmi_app.py #(use your file name instead  bmi_app.py)
 
