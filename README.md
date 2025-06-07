@@ -1,2 +1,21 @@
 # BMIcalculator
-A simple Python command-line application that calculates Body Mass Index (BMI) based on user input of weight and height (in cm), and classifies the result into standard BMI categories.
+
+# BMI Calculator App
+
+This is a simple **BMI (Body Mass Index) calculator** built using **Python** and **Streamlit**.
+
+## Features
+
+- Input height and weight
+- Calculates BMI
+- Provides health suggestions based on BMI
+- Clean and interactive UI using Streamlit
+
+## Installation
+
+```bash
+pip install streamlit
+
+# How to run
+streamlit run bmi_app.py ( use your file name instead  bmi_app.py )
+
